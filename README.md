@@ -1,4 +1,4 @@
-# trinder
+# Trinder
 
 Backend server for trinder application (spring boot)
 
